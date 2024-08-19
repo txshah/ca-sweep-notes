@@ -284,8 +284,8 @@ export default function SweepNotes() {
           {WsStudyRoom && <p>WS Basement: {WsStudyRoom} students in Study Room, {WsLaundry} students in Laundry</p>}
           {WsNotes && <p>WS Additional Notes: {WsNotes}</p>}
         </div>
-
       </div>
+      <p>Created by Tvesha Shah - feel free to message if you have any feedback on the site!</p>
     </div>
   );
 }
